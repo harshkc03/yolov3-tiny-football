@@ -4,6 +4,8 @@
 * Complete model was trained on [Google Colab](https://colab.research.google.com/)
 * Dataset was acquired from [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
 * YOLOv3 Tiny was trained with [AlexeyAB's darknet framework](https://github.com/AlexeyAB/darknet)
+* Here's a [YouTube video](https://www.youtube.com/watch?v=ebb8ARu8UX8&t=188s) demonstrating the working of my model
+
 
 * Model info-
   * Iterations - 3000
