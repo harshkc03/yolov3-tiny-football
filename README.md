@@ -1,6 +1,6 @@
 # YOLOv3 Tiny trained to predict Football
 
-* Object detection using YOLOv3 Tiny is implemented. The tiny version was chosen to keep the model light, thus providing high Frames Per Second(FPS) on mid and low end devices.
+* Object detection using YOLOv3 Tiny is implemented. The tiny version was chosen to keep the model light, thus providing higher Frames Per Second(FPS) on mid and low end devices.
 * Complete model was trained on [Google Colab](https://colab.research.google.com/)
 * Dataset was acquired from [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
 * YOLOv3 Tiny was trained with [AlexeyAB's darknet framework](https://github.com/AlexeyAB/darknet)
