@@ -10,7 +10,7 @@
 * Model info-
   * Iterations - 3000
   * mean Average Precision (mAP) - 72 %
-* All predictions were done using **yolov3-tiny-obj_last.weights**
+* All predictions were done using [yolov3-tiny-obj_last.weights](https://github.com/harshkc03/yolov3-tiny-football/blob/master/Trained%20weights/yolov3-tiny-obj_last.weights)
 
 ## Predicted image-
 ![Predicted Image](https://raw.githubusercontent.com/harshkc03/yolov3-tiny-football/master/Predicted%20images/predictions_f3.jpg)
